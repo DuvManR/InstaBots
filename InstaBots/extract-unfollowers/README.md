@@ -14,9 +14,11 @@ General Info:
 (-) should_remove_from_ok_list => people that were once excluded as they're probably celebs or famous pages, but the user unfollowed them so no need to store them in ok_list anymore (found in constants.py).
 
 
+
 extract-unfollowers-api:
 
 (-) Executes and handles the functionality above using instaloader lib.
+
 
 
 extract-unfollowers-selenium:
