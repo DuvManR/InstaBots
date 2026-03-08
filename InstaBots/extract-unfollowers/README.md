@@ -22,3 +22,9 @@ extract-unfollowers-api:
 extract-unfollowers-selenium:
 
 (-) Executes and handles the functionality above using selenium lib.
+
+
+extract-unfollowers-chrome-extension:
+
+(-) Executes and handles the functionality above using js as a chrome extension.
+
